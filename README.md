@@ -1,14 +1,10 @@
 ### Hi there I'm Erik 👋
 
-
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=JakeMate15&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" width="47%" align="left" />
 
 ![Snake animation](https://github.com/JakeMate15/JakeMate15/blob/output/github-contribution-grid-snake.svg)
 
 ## Quick overview
-<details>
-<summary>
-  Techonologies I use
-</summary>
 
 ### 📋 Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -34,5 +30,3 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 </details>
 
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=JakeMate15&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" width="47%" align="left" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakeMate15&layout=compact&hide=jupyter%20notebook" width="47%" align="left" />
