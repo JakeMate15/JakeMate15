@@ -1,6 +1,6 @@
 ### Hi there I'm Erik 👋
 
-I am ... 
+
 
 ![Snake animation](https://github.com/JakeMate15/JakeMate15/blob/output/github-contribution-grid-snake.svg)
 
