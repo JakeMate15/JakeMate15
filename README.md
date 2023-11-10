@@ -36,6 +36,4 @@ I am ...
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakeMate15&layout=compact&hide=jupyter%20notebook" width="47%" align="left" />
 
 ## Contributions :white_check_mark:
-
-
 ![Snake animation](https://github.com/JakeMate15/JakeMate15/blob/output/github-contribution-grid-snake.svg)
