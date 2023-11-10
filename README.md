@@ -37,4 +37,5 @@ I am ...
 
 ## Contributions :white_check_mark:
 
-![Snake animation](https://github.com/JakeMate15/JakeMate15/blob/output/snake.svg)
+
+![Snake animation](https://github.com/JakeMate15/JakeMate15/blob/output/github-contribution-grid-snake.svg)
